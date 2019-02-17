@@ -1,0 +1,33 @@
+{
+  "name": "create-nodeschool",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "nodeschool": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnb/create-nodeschool.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "workshopper",
+    "workshoppers",
+    "cli",
+    "utility"
+  ],
+  "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnb/create-nodeschool/issues"
+  },
+  "homepage": "https://github.com/bnb/create-nodeschool#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "yargs": "^13.2.0"
+  }
+}
