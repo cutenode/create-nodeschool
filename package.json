@@ -1,14 +1,20 @@
 {
   "name": "create-nodeschool",
   "version": "0.0.1",
-  "description": "",
+  "description": "An interactive CLI for getting set up with NodeSchool workshoppers.",
   "main": "index.js",
   "bin": {
     "nodeschool": "bin/cli.js"
   },
   "scripts": {
+    "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "bin",
+    "data",
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bnb/create-nodeschool.git"
@@ -18,7 +24,8 @@
     "workshopper",
     "workshoppers",
     "cli",
-    "utility"
+    "utility",
+    "meetup"
   ],
   "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im)",
   "license": "MIT",
@@ -29,5 +36,8 @@
   "dependencies": {
     "inquirer": "^6.2.2",
     "yargs": "^13.2.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
   }
 }
