@@ -1,5 +1,5 @@
-[
-  "core: Install the core workshoppers",
-  "electives: Install the elective workshoopers",
-  "solo: Install a specific workshopper"
-]
+{
+  "core": "Install the core workshoppers",
+  "electives": "Install the elective workshoopers",
+  "any": "Install a specific workshopper"
+}

@@ -1,9 +1,9 @@
-[
-  "javascripting",
-  "learnyounode",
-  "how-to-npm",
-  "elementary-electron",
-  "stream-adventure",
-  "how-to-markdown",
-  "learnyouhtml"
-]
+{
+  "javascripting": "Learn the basics of JavaScript. No previous programming experience required.", 
+  "learnyounode": "Learn the basics of node: asynchronous i/o, http.",
+  "how-to-npm": "Learn how to use and create npm modules.",
+  "elementary-electron": "Make a desktop application using Node and Chromium with Electron.",
+  "stream-adventure": "Learn to compose streaming interfaces with .pipe().",
+  "how-to-markdown": "Learn how to start using Markdown — a lightweight markup language with plain text formatting syntax.",
+  "learnyouhtml": "Learn how to create your first web page."
+}
