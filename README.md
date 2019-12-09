@@ -1,5 +1,7 @@
 # create-nodeschool
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cutenode/create-nodeschool.svg)](https://greenkeeper.io/)
+
 A more guided way to install NodeSchool workshoppers.
 
 ## Usage
